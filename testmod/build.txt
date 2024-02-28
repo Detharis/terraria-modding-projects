@@ -1,0 +1,3 @@
+displayName = Test
+author = Detharis
+version = 0.1
